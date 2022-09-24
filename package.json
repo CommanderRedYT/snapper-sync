@@ -1,0 +1,32 @@
+{
+  "name": "snapper-sync",
+  "version": "1.0.0",
+  "description": "A client to backup snapper snapshots",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CommanderRedYT/snapper-sync.git"
+  },
+  "keywords": [
+    "snapper",
+    "btrfs"
+  ],
+  "author": "CommanderRedYT",
+  "contributors": [
+    "CommanderRedYT",
+    "0xFEEDC0DE64"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/CommanderRedYT/snapper-sync/issues"
+  },
+  "homepage": "https://github.com/CommanderRedYT/snapper-sync#readme",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "ini": "^3.0.1"
+  }
+}
